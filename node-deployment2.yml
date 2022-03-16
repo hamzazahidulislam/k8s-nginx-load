@@ -21,7 +21,7 @@ spec:
             - containerPort: 5000
           env:
             - name: APP_ID
-              value: node-service
+              value: '5000'
 
 ---
 apiVersion: v1
